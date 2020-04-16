@@ -1,4 +1,3 @@
 /*
-  # headers for that path:
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
+  # Test Belco
+  frame-ancestors 'self' https://*.screencloud.com https://*.screen.cloud https://belco.bm js.arcgis.com *.google.com www.google-analytics.com www.belcooutages.bm *.googleapis.com
