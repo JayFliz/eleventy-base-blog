@@ -1,3 +1,3 @@
 /*
 # Test Belco
-Content-Security-Policy:  frame-ancestors  * 'self' http://localhost http:*.screen.cloud http:*.screen.cloud https://*.screencloud.com https://*.screen.cloud 
+Content-Security-Policy:  frame-ancestors  'self' http://localhost http:*.screen.cloud http:*.screen.cloud https://*.screencloud.com https://*.screen.cloud 
