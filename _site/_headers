@@ -1,4 +1,4 @@
 /*
 # Test Belco
-Content-Security-Policy:  frame-ancestors  'self' http://localhost* http:*.screen.cloud http:*.screen.cloud https://*.screencloud.com https://*.screen.cloud https://belco.bm js.arcgis.com *.google.com www.google-analytics.com www.belcooutages.bm *.googleapis.com
+Content-Security-Policy:  frame-ancestors  'self' http://localhost http:*.screen.cloud http:*.screen.cloud https://*.screencloud.com https://*.screen.cloud https://belco.bm js.arcgis.com *.google.com www.google-analytics.com www.belcooutages.bm *.googleapis.com
 
